@@ -1,7 +1,7 @@
 # react-ssr-ts-boilerplate
 Reactjs with Server Side Rendering Typescript Boilerplate
 
-# What's inside
+# What's inside?
 - ReactJS (React.memo, React.useState, React.useEffects)
 - Redux
 - Redux Observables (rxjs)
@@ -14,3 +14,11 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 - GraphQL
 - Server Side Rendering (using Razzle)
 - [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
+
+# Usage
+
+# Contribution
+message me @nenjotsu
+
+# License
+MIT
