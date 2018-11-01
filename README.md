@@ -8,5 +8,7 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 - React Router
 - Typescript
 - React Loadable
+- WithRouter
+- Socket
 - Server Side Rendering (using Razzle)
 - [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
