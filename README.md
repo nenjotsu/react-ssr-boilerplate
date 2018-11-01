@@ -14,7 +14,10 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 - [ ] Socket
 - [ ] Auth0
 - [ ] GraphQL
+- [ ] AntDesign
+- [ ] Formik
 - [ ] [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
+- [ ] Cypress, Mocha, Chai
 
 # Usage
 
