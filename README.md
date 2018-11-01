@@ -39,8 +39,7 @@ yarn start
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 
 # Contributing
-- Do you want to contribute? Please read the guidelines [here](react-ssr-ts-boilerplate/docs/contributing.md)
-message me @nenjotsu
+Do you want to contribute? Please read the guidelines [here](/docs/contributing.md) or message me @nenjotsu
 
 # License
 
