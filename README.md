@@ -11,5 +11,6 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 - WithRouter
 - Socket
 - Auth0
+- GraphQL
 - Server Side Rendering (using Razzle)
 - [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
