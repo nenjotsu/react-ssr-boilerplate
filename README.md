@@ -4,7 +4,7 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 
 # What's inside?
 
-- ReactJS (React.memo, React.useState, React.useEffects)
+- ReactJS
 - Redux
 - Redux Observables (rxjs)
 - React Router
