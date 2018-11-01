@@ -1,4 +1,4 @@
-# react-ssr-ts-boilerplate
+# react-ssr-ts-boilerplate (WIP)
 
 Reactjs with Server Side Rendering Typescript Boilerplate
 
