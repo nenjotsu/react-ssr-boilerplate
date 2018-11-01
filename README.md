@@ -23,7 +23,7 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 
 ```bash
 git clone https://github.com/nenjotsu/react-ssr-ts-boilerplate.git
-cd react-ssr-ts-boilerplate
+cd react-ssr-ts-boilerplateo
 ```
 
 ## Installation & Getting Started:
@@ -38,8 +38,8 @@ yarn start
 - [razzle](https://github.com/jaredpalmer/razzle.git)
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 
-# Contribution
-
+# Contributing
+- Do you want to contribute? Please read the guidelines [here](react-ssr-ts-boilerplate/docs/contributing.md)
 message me @nenjotsu
 
 # License
