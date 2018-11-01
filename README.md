@@ -4,18 +4,17 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 
 # What's inside?
 
-- ReactJS
-- Redux
-- Redux Observables (rxjs)
-- React Router
-- Typescript
-- React Loadable
-- WithRouter
-- Socket
-- Auth0
-- GraphQL
-- Server Side Rendering (using Razzle)
-- [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
+- [x] ReactJS
+- [x] Typescript
+- [x] Server Side Rendering (using Razzle)
+- [ ] Redux
+- [ ] Redux Observables (rxjs)
+- [ ] React Router
+- [ ] WithRouter
+- [ ] Socket
+- [ ] Auth0
+- [ ] GraphQL
+- [ ] [Advanced Redux Pattern](https://github.com/nenjotsu/advanced-redux-pattern)
 
 # Usage
 
@@ -33,8 +32,8 @@ yarn start
 
 # Thanks to
 
-[razzle](https://github.com/jaredpalmer/razzle.git)
-[TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
+- [razzle](https://github.com/jaredpalmer/razzle.git)
+- [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 
 # Contribution
 
