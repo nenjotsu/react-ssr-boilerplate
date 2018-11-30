@@ -7,7 +7,7 @@ Reactjs with Server Side Rendering Typescript Boilerplate
 - [x] ReactJS
 - [x] Typescript
 - [x] Server Side Rendering (using Razzle)
-- [ ] Redux
+- [x] Redux
 - [ ] Redux Observables (rxjs)
 - [ ] React Router
 - [ ] WithRouter
