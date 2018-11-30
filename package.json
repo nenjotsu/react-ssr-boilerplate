@@ -11,13 +11,13 @@
   "dependencies": {
     "express": "^4.16.3",
     "prop-types": "^15.6.0",
+    "qs": "^6.5.1",
     "react": "^16.3.13",
     "react-dom": "^16.0.5",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.6",
-    "redux": "^3.6.0",
+    "redux": "^4.0.0",
     "redux-thunk": "^2.1.32",
-    "qs": "^6.5.1",
     "serialize-javascript": "^1.5.0"
   },
   "devDependencies": {

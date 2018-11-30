@@ -12,7 +12,7 @@ const mapStateToProps = (state: StateType) => ({
 });
 
 function mapDispatchToProps(dispatch: any) {
-  return bindActionCreators<any>(CounterActions, dispatch);
+  return bindActionCreators<any, any>(CounterActions, dispatch);
 }
 
 export default connect(

@@ -38,11 +38,7 @@ yarn start
 - [razzle](https://github.com/jaredpalmer/razzle.git)
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 
-# Contributing
-
-Do you want to contribute? Please read the guidelines [here](/docs/contributing.md) or message me @nenjotsu
-
-# Code of Conduct
+# Contributing & Code of Conduct
 
 Please read it [here](/docs/CODE_OF_CONDUCT.md)
 
